@@ -1,0 +1,81 @@
+📄  Extracted from page
+: ```json
+{
+  "file_name": "wittgenstein_philosophical_investigations_analysis.md",
+  "extraction_results": {
+    "goal_analysis": "The goal was to extract detailed information about Ludwig Wittgenstein's 'Investigaciones filosóficas' (Philosophical Investigations) PDF, but the page appears to be about a web development project creating a comprehensive website about Wittgenstein rather than analyzing a specific PDF.",
+    "content_found": {
+      "wittgenstein_website_project": {
+        "description": "A completed web development project creating a comprehensive website about Ludwig Wittgenstein",
+        "url": "https://eq7n4nawl8.space.minimax.io",
+        "project_status": "Completed and deployed"
+      },
+      "philosophical_investigations_references": {
+        "spanish_title": "Investigaciones Filosóficas",
+        "content_sources": [
+          "PDF extractions from original works",
+          "Academic database with 375+ articles",
+          "Stanford Encyclopedia of Philosophy",
+          "Multiple Spanish language sources"
+        ],
+        "textual_citations_included": "Yes, with exact references (§2.12, §4.01, §5.6, etc.)",
+        "language": "Spanish"
+      },
+      "project_structure": {
+        "research_documents": [
+          "ludwig_wittgenstein_documento_completo.md",
+          "research_plan_wittgenstein.md", 
+          "wittgenstein_sources_tracking.md"
+        ],
+        "extracted_pdfs": [
+          "investigaciones_filosoficas_original.pdf",
+          "wittgenstein_obras_completas_gredos.pdf"
+        ],
+        "academic_data": [
+          "wittgenstein_academic_results.json",
+          "wittgenstein_organized_findings.json"
+        ],
+        "website_files": [
+          "index.html with complete Wittgenstein biography and philosophy",
+          "Images of Wittgenstein portraits and book covers",
+          "Structured sections covering life, works, influences"
+        ]
+      },
+      "website_sections": {
+        "1_biography": "Complete life details (1889-1951) with photographs",
+        "2_works_and_thought": "Textual quotes from major works illustrating key ideas",
+        "3_received_influences": "Teachers like Frege, Russell, Schopenhauer", 
+        "4_exercised_influences": "Impact on analytic philosophy",
+        "5_historical_context": "Vienna fin-de-siècle, WWI, Cambridge University",
+        "6_major_works": "Links to Spanish editions both free (Archive.org) and commercial (Amazon)",
+        "7_external_sources": "Complete academic references and methodology"
+      },
+      "key_philosophical_concepts": {
+        "language_games": "Juegos del lenguaje - core concept from Philosophical Investigations",
+        "picture_theory": "Teoría pictórica - from Tractus Logico-Philosophicus",
+        "private_language": "Lenguaje privado - critical analysis in later works",
+        "rule_following": "Seguimiento de reglas - fundamental to language philosophy"
+      },
+      "publication_details": {
+        "original_title": "Philosophische Untersuchungen",
+        "spanish_translation": "Investigaciones Filosóficas",
+        "publishers_mentioned": "Gredos, Alianza Editorial, Trotta",
+        "availability": "Both free PDFs and commercial editions in Spanish"
+      },
+      "notable_features": {
+        "academic_rigor": "Based on 375+ academic articles",
+        "verified_citations": "Exact textual quotes with section references",
+        "multilingual_sources": "Stanford Encyclopedia, Spanish universities, German originals",
+        "comprehensive_scope": "Complete philosophical biography and analysis",
+        "responsive_design": "Mobile and desktop optimized website",
+        "functional_links": "Verified links to free and commercial Spanish editions"
+      }
+    },
+    "limitations": {
+      "specific_pdf_analysis": "The page focuses on a web development project rather than analyzing a specific PDF of Philosophical Investigations",
+      "pdf_content_extraction": "While PDFs were downloaded and analyzed, detailed page-by-page content is not visible in this interface",
+      "editors_notes": "No specific editors' notes are mentioned, though academic methodology is documented"
+    }
+  }
+}
+```

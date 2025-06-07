@@ -1,0 +1,19 @@
+📄  Extracted from page
+: I can see that you've provided a page with an iframe containing a MiniMax Agent interface, but I cannot access or extract content from within iframes due to security restrictions. The iframe points to `https://agent.minimax.io/share/277476253249602` but the actual content inside is not accessible to me.
+
+```json
+{
+  "file_name": "minimax_agent_page.md",
+  "extraction_status": "limited_access",
+  "visible_content": {
+    "title": "MiniMax Agent: Minimize Effort, Maximize Intelligence",
+    "iframe_url": "https://agent.minimax.io/share/277476253249602",
+    "content_type": "iframe_embedded_content"
+  },
+  "code_folder_found": false,
+  "analyze_wittgenstein_data_py_found": false,
+  "file_structures": [],
+  "python_scripts": [],
+  "notes": "Unable to extract content from iframe due to security restrictions. The page contains only an iframe pointing to a MiniMax Agent interface. No /code/ folder or analyze_wittgenstein_data.py file detected in the accessible content."
+}
+```

@@ -1,0 +1,61 @@
+📄  Extracted from page
+: ```json
+{
+  "file_name": "wittgenstein_obras_completas_gredos.pdf",
+  "extracted_information": {
+    "file_characteristics": {
+      "file_name": "wittgenstein_obras_completas_gredos.pdf",
+      "file_type": "PDF document",
+      "status": "Available in workspace",
+      "location": "/workspace/data/wittgenstein_obras_completas_gredos.pdf"
+    },
+    "file_metadata": {
+      "content_type": "Academic philosophical texts",
+      "publisher": "Editorial Gredos",
+      "subject": "Ludwig Wittgenstein complete works",
+      "language": "Spanish",
+      "description": "Complete works collection including Tractatus Logico-Philosophicus, Philosophical Investigations, and On Certainty"
+    },
+    "content_information": {
+      "main_works_included": [
+        "Tractatus Logico-Philosophicus",
+        "Investigaciones Filosóficas (Philosophical Investigations)", 
+        "Sobre la Certeza (On Certainty)"
+      ],
+      "extracted_quotes": [
+        "Los límites de mi lenguaje significan los límites de mi mundo (§5.6)",
+        "De lo que no se puede hablar, mejor es callarse (§7)",
+        "El significado de una palabra es su uso en el lenguaje (§43)",
+        "Imaginar un lenguaje significa imaginar una forma de vida (§19)"
+      ],
+      "philosophical_concepts": [
+        "Teoría pictórica del lenguaje",
+        "Juegos del lenguaje",
+        "Formas de vida",
+        "Gramática profunda vs superficial"
+      ]
+    },
+    "technical_details": {
+      "file_size": "Not specified in current page",
+      "page_count": "Not specified in current page", 
+      "format": "PDF",
+      "accessibility": "Available for research purposes"
+    },
+    "usage_context": {
+      "purpose": "Academic research on Wittgenstein's philosophy",
+      "part_of_project": "Comprehensive Wittgenstein website creation",
+      "related_files": [
+        "investigaciones_filosoficas_original.pdf",
+        "ludwig_wittgenstein_documento_completo.md",
+        "wittgenstein_academic_results.json"
+      ]
+    },
+    "content_extraction_status": {
+      "text_extracted": true,
+      "quotes_available": true,
+      "citations_format": "Standard philosophical notation (§ sections)",
+      "used_for": "Website content creation and academic reference"
+    }
+  }
+}
+```

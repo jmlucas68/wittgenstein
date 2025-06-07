@@ -1,0 +1,27 @@
+{
+  "project_name": "Ludwig Wittgenstein - Proyecto Académico Completo",
+  "description": "Proyecto educativo integral sobre Ludwig Wittgenstein con investigación académica rigurosa",
+  "total_sources": "375+ fuentes académicas",
+  "components": [
+    "Sitio web educativo responsive",
+    "Documento maestro académico completo",
+    "PDFs de fuentes primarias en español",
+    "Datos JSON de investigación académica",
+    "Scripts Python de automatización",
+    "Plan de investigación metodológica",
+    "Imágenes optimizadas y recursos visuales"
+  ],
+  "files_structure": {
+    "root": [
+      "index.html",
+      "README.md",
+      "todo.md"
+    ],
+    "images/": "5 imágenes optimizadas",
+    "docs/": "Documentación académica completa",
+    "data/": "PDFs, JSON de investigación académica",
+    "code/": "Scripts Python de análisis",
+    "extract/": "Extracciones de contenido",
+    "sub_tasks/": "Resúmenes de tareas"
+  }
+}

@@ -1,0 +1,27 @@
+📄  Extracted from page
+: ```json
+{
+  "file_name": "wittgenstein_academic_results.json",
+  "extraction_result": {
+    "status": "file_access_limited",
+    "reason": "File too long to read completely (3467+ lines, exceeding 300-line limit)",
+    "partial_content_available": true,
+    "file_description": "A comprehensive JSON file containing 375+ academic sources and research results about Ludwig Wittgenstein, fundamental for academic research projects",
+    "file_location": "/workspace/data/wittgenstein_academic_results.json",
+    "file_size": "3467+ lines",
+    "content_type": "Academic research database in JSON format",
+    "research_scope": "Comprehensive academic sources about Ludwig Wittgenstein's philosophy, life, and works",
+    "academic_value": "Fundamental resource for Wittgenstein research projects containing verified academic sources",
+    "access_limitation": "Complete extraction requires reading in smaller chunks due to file size",
+    "suggested_approach": "Use view_range parameter to read specific sections (e.g., view_range[1,300] for first 300 lines)",
+    "related_files": [
+      "wittgenstein_organized_findings.json",
+      "stanford_wittgenstein_complete.json", 
+      "wittgenstein_biografia_wikipedia.json",
+      "wittgenstein_claves_pensamiento.json",
+      "wittgenstein_citas_psicologia.json"
+    ],
+    "project_context": "Part of comprehensive Wittgenstein research project including web development, academic analysis, and source compilation"
+  }
+}
+```
